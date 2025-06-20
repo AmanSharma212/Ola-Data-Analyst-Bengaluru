@@ -62,6 +62,7 @@ Below is an example of how the dataset is structured:
 
 ## 📁 Project Structure
 
+```bash
 📦 Urban-Ride-Analytics/
 ├── data/
 │   └── ola_ride_data.csv
@@ -70,5 +71,3 @@ Below is an example of how the dataset is structured:
 ├── dashboards/
 │   └── OLA_Bengaluru_Report.pbix
 └── README.md
-
----
