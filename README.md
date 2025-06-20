@@ -60,23 +60,15 @@ Below is an example of how the dataset is structured:
 
 ---
 
-## 🚀 **How to Use**  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/Satyam638/Ola-Data-Analyst-Project.git  
-   ```  
-2. Access the Power BI report file and dataset for detailed exploration.  
-3. Use SQL scripts for custom queries on the dataset.  
+## 📁 Project Structure
+
+📦 Urban-Ride-Analytics/
+├── data/
+│   └── ola_ride_data.csv
+├── scripts/
+│   └── data_cleaning.ipynb
+├── dashboards/
+│   └── OLA_Bengaluru_Report.pbix
+└── README.md
 
 ---
-
-## 📧 **Contact**  
-If you have any questions, suggestions, or would like to collaborate, feel free to reach out:  
-- **Email**: satyamgupta1194843@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/satyam-gupta-aa92bb220/ 
-
----
-
-### ⭐ **If you found this project useful, don’t forget to star the repository!**  
-
---- 
