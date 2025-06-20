@@ -1,4 +1,4 @@
-# 📊 Ola Data Analyst Project  
+# 📊 Ola Data Analyst Benguluru 
 ### 🚖 Ride Analysis for Bengaluru City  
 
 ![Ola_ Dashboard](https://github.com/user-attachments/assets/dd61df56-f7b2-46d2-ab25-8bfe4fc020a4)
